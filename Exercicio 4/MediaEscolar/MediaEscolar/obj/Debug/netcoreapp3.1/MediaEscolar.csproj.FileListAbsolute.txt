@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\bin\Debug\netcoreapp3.1\MediaEscolar.exe
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\bin\Debug\netcoreapp3.1\MediaEscolar.deps.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\bin\Debug\netcoreapp3.1\MediaEscolar.runtimeconfig.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\bin\Debug\netcoreapp3.1\MediaEscolar.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\bin\Debug\netcoreapp3.1\MediaEscolar.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\bin\Debug\netcoreapp3.1\MediaEscolar.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 4\MediaEscolar\MediaEscolar\obj\Debug\netcoreapp3.1\MediaEscolar.genruntimeconfig.cache
