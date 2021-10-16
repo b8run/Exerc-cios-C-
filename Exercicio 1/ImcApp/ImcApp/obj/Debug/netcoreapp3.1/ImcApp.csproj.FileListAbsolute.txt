@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\bin\Debug\netcoreapp3.1\ImcApp.exe
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\bin\Debug\netcoreapp3.1\ImcApp.deps.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\bin\Debug\netcoreapp3.1\ImcApp.runtimeconfig.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\bin\Debug\netcoreapp3.1\ImcApp.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\bin\Debug\netcoreapp3.1\ImcApp.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\bin\Debug\netcoreapp3.1\ImcApp.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 1\ImcApp\ImcApp\obj\Debug\netcoreapp3.1\ImcApp.genruntimeconfig.cache
