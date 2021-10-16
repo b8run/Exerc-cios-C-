@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\bin\Debug\netcoreapp3.1\CountAnimal.exe
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\bin\Debug\netcoreapp3.1\CountAnimal.deps.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\bin\Debug\netcoreapp3.1\CountAnimal.runtimeconfig.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\bin\Debug\netcoreapp3.1\CountAnimal.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\bin\Debug\netcoreapp3.1\CountAnimal.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\bin\Debug\netcoreapp3.1\CountAnimal.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 5\CountAnimal\CountAnimal\obj\Debug\netcoreapp3.1\CountAnimal.genruntimeconfig.cache
