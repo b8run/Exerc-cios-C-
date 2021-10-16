@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\bin\Debug\netcoreapp3.1\GeometriaEsfera.exe
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\bin\Debug\netcoreapp3.1\GeometriaEsfera.deps.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\bin\Debug\netcoreapp3.1\GeometriaEsfera.runtimeconfig.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\bin\Debug\netcoreapp3.1\GeometriaEsfera.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\bin\Debug\netcoreapp3.1\GeometriaEsfera.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\bin\Debug\netcoreapp3.1\GeometriaEsfera.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\GeometriaEsfera\GeometriaEsfera\obj\Debug\netcoreapp3.1\GeometriaEsfera.genruntimeconfig.cache
