@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\bin\Debug\netcoreapp3.1\CountSalario.exe
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\bin\Debug\netcoreapp3.1\CountSalario.deps.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\bin\Debug\netcoreapp3.1\CountSalario.runtimeconfig.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\bin\Debug\netcoreapp3.1\CountSalario.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\bin\Debug\netcoreapp3.1\CountSalario.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\bin\Debug\netcoreapp3.1\CountSalario.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.dll
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.pdb
+C:\Users\bruno\Desktop\Exercicios\Exerc-cios-C-\Exercicio 2\CountSalario\CountSalario\obj\Debug\netcoreapp3.1\CountSalario.genruntimeconfig.cache
